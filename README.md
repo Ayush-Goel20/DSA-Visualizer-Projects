@@ -44,27 +44,5 @@ DSA-Visualizer-Projects/
 * **Key Tech:** Singly Linked Lists, Pointer Manipulation.
 * **Complexity:** O(1) Insertion, O(N) Traversal.
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-* A C++ compiler (GCC/G++ recommended).
-* Git installed on your system.
-
-### Installation & Execution
-1.  **Clone the Repo:**
-    \`\`\`powershell
-    git clone https://github.com/Ayush-Goel20/DSA-Visualizer-Projects.git
-    cd DSA-Visualizer-Projects
-    \`\`\`
-2.  **Compile a Project:**
-    \`\`\`powershell
-    g++ src/metro_navigator/main.cpp -o metro_nav
-    \`\`\`
-3.  **Run the Output:**
-    \`\`\`powershell
-    ./metro_nav
-    \`\`\`
 
 ---
